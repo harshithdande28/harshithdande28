@@ -87,7 +87,7 @@ I also do applied NLP research — my IEEE paper on Cyberbullying Detection usin
 
 An end-to-end agentic pipeline that takes a job search query, crawls LinkedIn listings, and extracts company/website data. Includes an LLM-driven web agent (LangGraph + Groq LLaMA 3.3) that autonomously navigates company sites and identifies career pages via tool-calling — no hardcoded rules.
 
-🔗 [Repo link — replace with your actual repo URL](https://github.com/harshithdande28/job-agent)
+🔗 https://github.com/harshithdande28/job-agent
 
 ### ⚙️ Automated Data Pipeline with CI/CD
 `Python` `Docker` `GitHub Actions` `FastAPI` `pytest`
@@ -99,7 +99,7 @@ A containerized ML pipeline covering data preprocessing, feature engineering, mo
 
 A modular CV web app with 7 modules and 15+ experiments covering camera calibration, feature detection, real-time tracking, stereo vision, and pose estimation. Deployed on Render with both cloud and local execution modes.
 
-🔗 [Repo link — replace with your actual repo URL](https://github.com/harshithdande28/computer_vision_toolkit)
+🔗 https://github.com/harshithdande28/computer_vision_toolkit
 
 ---
 
