@@ -5,7 +5,7 @@
 **AI/Agentic Systems Engineer | LLM & RAG Applications | M.S. Computer Science, Georgia State University**
 
 [![Email](https://img.shields.io/badge/Email-harshithcs28%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithcs28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshithdande/)
 [![GitHub](https://img.shields.io/badge/GitHub-harshithdande28-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshithdande28)
 
 </div>
